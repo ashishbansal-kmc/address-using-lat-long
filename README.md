@@ -1,4 +1,5 @@
-Get Address from google map api using latitude and longitude
+Get Address from google map api using latitude and longitude.
+Note: Please pass google map api key also
 
 # address-using-lat-long
 
